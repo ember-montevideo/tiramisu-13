@@ -1,0 +1,7 @@
+tiramisu-recipe {
+  list-style-type: disc;
+}
+tiramisu-ingredient {
+  display: list-item;
+  margin-left: 20px;
+}
